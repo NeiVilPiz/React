@@ -1,4 +1,6 @@
+import { Column } from "./types";
 import { DataTable } from "./components/DataTable";
+
 
 type Estudiante = {
   id: string;
